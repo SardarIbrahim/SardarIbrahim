@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SardarIbrahim
-- 👀 I’m interested in JS, REACTJS/NEXTJS, NODEJS/EXPRESSJS, MONGODB, MERN STACK
+- 👀 I’m interested in JS -> REACTJS/NEXTJS, NODEJS/EXPRESSJS, MONGODB -> MERN STACK
 - 🌱 I’m currently learning DOCKER, NEXTJS, DESIGNING AND MUCH MORE..
 - 💞️ I’m looking to collaborate on some cool open-source react/nextjs projects 
 - 📫 How to reach me : KhanzadaIbrahim05@gmail.com
